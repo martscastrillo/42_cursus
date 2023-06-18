@@ -9,8 +9,8 @@ This is my progress in this adventure:
 | CIRCLE | PROJECT | EXPERIENCE | LEVEL | 
 | -- | -- | -- | -- |
 | 00 | [Libft](https://github.com/martscastrillo/Libft) | 462 XP | 125% |  
-| 01 | [ft_printf](ft_printf) | 0 XP | 0% |  
-| 02 | [Born2beroot]() | 0 XP | 0% |  
-| 03 | [get_next_line]() | 0 XP | 0% |  
+| 01 | [ft_printf](https://github.com/martscastrillo/ft_printf) | 0 XP | 0% |  
+| 02 | Born2beroot | 0 XP | 0% |  
+| 03 | [get_next_line](https://github.com/martscastrillo/get_next_line) | 0 XP | 0% |  
 
 Born2beroot
